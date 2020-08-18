@@ -1,1 +1,1 @@
-podman build -t rndnet/tensorflow-bfj:latest -f Dockerfile
+podman build -t rndnet/tensorflow-bfj:gpu -f Dockerfile
